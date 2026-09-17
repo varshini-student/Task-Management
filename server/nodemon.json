@@ -1,0 +1,6 @@
+{
+  "watch": ["."],
+  "ext": "js,json",
+  "ignore": ["drizzle/**", "node_modules/**"],
+  "env": { "NODE_ENV": "development" }
+}
